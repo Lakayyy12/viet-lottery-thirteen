@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Xổ số Kiên Giang APP</string>
+    <string name="back_button">button1</string>
+    <string name="splash">splash_screen</string>
+
+    <string name="g1">Mặc dù thực tế là không có lời giải thích hợp lý cho lý do tại sao một số con số được vẽ thường xuyên hơn những con số khác, một số có vẻ nóng hơn những con số khác.
+Chỉ cần lưu ý rằng bất kể một số đã xuất hiện 10 lần hay 0 lần trong các lần quay trước, nó vẫn có xác suất được rút ra bằng nhau.</string>
+    <string name="g2">Tiếp theo chúng ta chuyển sang môn số học. Việc bạn quyết định sử dụng kỹ thuật này thực sự phụ thuộc vào việc bạn có nghĩ rằng vũ trụ có sức mạnh hay không.
+Bất kỳ ai cũng có thể tính toán các "số" của riêng mình có ý nghĩa riêng đối với họ.
+Sử dụng sáu con số bạn đã chọn cho kỳ quay số sắp tới.</string>
+    <string name="g3">Hầu hết mọi người đều có một vài con số may mắn.
+Từ những ngày kỷ niệm đến áo đấu thể thao, những con số may mắn có thể có nhiều hình thức khác nhau. Chọn những người bạn thích hoặc có giá trị tình cảm thực sự là tất cả những gì được yêu cầu.</string>
+    <string name="g4">Vì mọi xổ số đều hoàn toàn ngẫu nhiên, tại sao phương pháp bạn sử dụng để chọn các con số của mình không phản ánh điều này?
+Điều gì nghĩ đến khi là con số đầu tiên? Bạn có quyền lựa chọn đầu tiên nếu bạn viết nó ra.
+Hạn chế duy nhất về việc có bao nhiêu cách chọn số ngẫu nhiên là sự sáng tạo của chính bạn. Thậm chí chỉ cần thả bút vào một vài con số và chọn số mà nó tiếp cận sẽ hoạt động.</string>
+    <string name="g5">Mặc dù sử dụng chiến lược này sẽ không cải thiện cơ hội chiến thắng của bạn, nhưng nó có thể nâng cao khoản thanh toán của bạn nếu bạn đủ may mắn trúng giải độc đắc.
+Do thường xuyên sử dụng ngày sinh nên đa số người dân chọn số thấp. Các số cao hơn 31 do đó ít được sử dụng hơn.
+Chúng tôi khuyên mọi người nên sử dụng phương pháp này vì ít nhất nó có một số nền tảng toán học.</string>
+    <string name="g6">Bạn sẽ thấy rằng mọi lựa chọn đều tiến triển theo một mô hình khi bạn nhìn xuống phiếu xổ số của mình. Sử dụng kỹ thuật này, bạn chọn số bằng cách vẽ chúng trên phiếu.
+Ví dụ, bạn có thể vẽ một chữ cái trong bảng chữ cái hoặc đơn giản là di chuyển trong một vòng tròn. Hãy biến thứ gì đó trông thật tuyệt khi bạn trình bày với nhân viên thu ngân bằng cách sử dụng tài năng nghệ thuật của bạn.</string>
+
+    <string name="t1">Phần lớn người chơi chọn số lotto của họ chỉ dựa trên ngày sinh của họ, có nghĩa là bạn có thể sẽ phải
+        chia giải độc đắc với một số người trúng giải khác. Điều này thể hiện một bất lợi "thứ yếu". Tốt hơn là nên bao gồm
+        ít nhất một số cao trong tất cả các lựa chọn của bạn.</string>
+    <string name="t2">Bạn có thể giành được các giải thưởng khác ngoài giải độc đắc. Lễ bốc thăm cũng bao gồm một số
+        giải thưởng ít hơn. Bạn phải giữ phần lớn số tiền của mình cho riêng mình nếu bạn thắng. Phát lại tất cả các
+        khoản thu nhập của bạn, bất kể khiêm tốn đến mức nào, sẽ không giúp ích được gì.</string>
+    <string name="t3">Hãy nhớ rằng chiến thắng của giải độc đắc xổ số phụ thuộc hoàn toàn vào may mắn.
+        Để giành chiến thắng, tất cả những gì bạn cần là một bộ số. Một vài tùy chọn bổ sung có thể mang lại
+        cho bạn thêm hy vọng và cải thiện tâm trạng của bạn, điều này thật tốt. Chơi quá nhiều lựa chọn liên
+        quan đến việc đặt cược với
+        tỷ lệ cược rất dài. Thường xuyên tham gia vào các hành vi như vậy là không nên.</string>
+    <string name="t4">Bạn chỉ cần thắng xổ số một lần, mặc dù tỷ lệ cược rất cao. Ngoài ra, những người thường
+        xuyên luôn giành được nó trong các trận hòa. Bạn có thể giành được giải thưởng tiếp theo.</string>
+    <string name="button">button</string>
+
+
+    <string name="pcy1">Chào mừng bạn đến với thông báo bảo mật cho Xổ số Kiên Giang APP.
+APP Xổ số Vũng Tàu luôn nỗ lực để bảo vệ thông tin cá nhân của bạn và tôn trọng quyền riêng tư của bạn. Thông báo về quyền riêng tư này sẽ giải thích cách chúng tôi xử lý dữ liệu cá nhân của bạn khi bạn truy cập trang web của chúng tôi (độc lập với việc bạn truy cập từ đâu), cũng như các quyền riêng tư của bạn và các biện pháp bảo vệ pháp lý được áp dụng để đảm bảo an toàn cho bạn.
+Bạn có thể nhấp qua các phần khác nhau của thông báo bảo mật được liệt kê bên dưới vì nó được trình bày theo kiểu nhiều lớp. Bằng cách nhấp vào biểu tượng ở cuối trang này, bạn cũng có thể in bản sao của thông báo. Để hiểu rõ hơn các định nghĩa của bất kỳ cụm từ nào được đề cập trong thông báo về quyền riêng tư này, vui lòng tham khảo Bảng chú giải thuật ngữ.</string>
+    <string name="pcy2">Bảo mật thông tin cá nhân của bạn là rất quan trọng đối với chúng tôi. Chúng tôi tuân thủ các tiêu chuẩn ngành được chấp nhận chung, bao gồm các biện pháp bảo vệ hành chính, vật lý và kỹ thuật thích hợp để ngăn chặn việc sử dụng, truy cập, thay đổi hoặc tiết lộ trái phép dữ liệu cá nhân của bạn. Ngoài ra, chúng tôi chỉ cho phép nhân viên, đại lý, nhà thầu và các bên thứ ba khác có nhu cầu kinh doanh biết quyền truy cập vào thông tin cá nhân của bạn. Họ có nghĩa vụ duy trì tính bảo mật và sẽ chỉ xử lý thông tin cá nhân của bạn theo chỉ dẫn của chúng tôi.Chúng tôi sử dụng mã hóa SSL để bảo vệ Thông tin Cá nhân mà chúng tôi nhận được từ bạn, chẳng hạn như số thẻ tín dụng của bạn hoặc Thông tin Cá nhân Tài chính khác, trong phạm vi mà chúng tôi làm như vậy. Tuy nhiên, không có kỹ thuật lưu trữ hoặc truyền tải điện tử nào qua Internet là hoàn toàn an toàn. Do đó, trong khi chúng tôi nỗ lực để bảo vệ Thông tin Cá nhân của bạn bằng các biện pháp hợp lý về mặt thương mại, chúng tôi không thể cung cấp sự đảm bảo hoàn toàn về tính bảo mật của Thông tin cá nhân của bạn. Bạn có thể liên hệ với chúng tôi nếu bạn có bất kỳ thắc mắc nào về bảo mật trên Trang web.
+Khi chúng tôi có nghĩa vụ pháp lý làm như vậy, chúng tôi sẽ thông báo cho bạn và bất kỳ cơ quan quản lý nào có liên quan về vi phạm và sẽ có các thủ tục để xử lý bất kỳ vi phạm dữ liệu cá nhân nào bị nghi ngờ.</string>
+    <string name="pcy3">Để cung cấp cho bạn dịch vụ / sản phẩm tốt nhất và trải nghiệm tốt nhất và an toàn nhất, chúng tôi có lợi nhất là điều hành và quản lý công ty của mình với lợi ích hợp pháp. Trước khi chúng tôi xử lý dữ liệu cá nhân của bạn cho các mục đích hợp pháp của mình, chúng tôi đảm bảo rằng chúng tôi sẽ tính đến và cân nhắc mọi tác động tiềm ẩn đối với bạn (cả tích cực và tiêu cực). Chúng tôi không sử dụng thông tin cá nhân của bạn cho những việc mà tác động đến bạn sẽ lớn hơn lợi ích của chúng tôi (trừ khi chúng tôi có sự đồng ý của bạn hoặc được yêu cầu hoặc cho phép của pháp luật). lợi ích hợp pháp của chúng tôi chống lại bất kỳ ảnh hưởng nào có thể xảy ra đối với bạn liên quan đến các hoạt động cụ thể.
+Thực hiện hợp đồng đề cập đến việc sử dụng dữ liệu của bạn để thực hiện hợp đồng mà bạn là một bên hoặc thực hiện hành động theo yêu cầu của bạn trước khi giao kết hợp đồng.
+Xử lý dữ liệu cá nhân của bạn để tuân thủ yêu cầu pháp lý hoặc quy định có nghĩa là chúng tôi phải làm như vậy để hoàn thành nghĩa vụ mà chúng tôi phải tuân theo.</string>
+
+    <string name="tc1">Các cá nhân dưới mười tám tuổi (18) không được phép sử dụng Trang web (hoặc bất kỳ độ tuổi áp dụng cao hơn nào ở quốc gia có liên quan). Bạn không được phép tạo Tài khoản (được mô tả bên dưới) hoặc sử dụng Dịch vụ nếu độ tuổi của bạn dưới 18 (hoặc bất kỳ độ tuổi áp dụng nào cao hơn) (được định nghĩa bên dưới).</string>
+    <string name="tc2">Chúng tôi có thể, trong phạm vi cho phép, hủy Tài khoản của Người dùng và / hoặc quyền truy cập vào Trang web, và / hoặc giữ lại bất kỳ giải thưởng nào vẫn còn nợ Người dùng đó nếu chúng tôi chú ý đến thông qua các phương tiện đáng tin cậy rằng họ dưới 18 tuổi (hoặc độ tuổi áp dụng cao hơn).</string>
+    <string name="tc3">Bạn có nhiệm vụ truy cập và sử dụng Trang web cũng như các Dịch vụ tuân theo Điều khoản, tất cả các luật và quy định có liên quan cũng như Chính sách trò chơi có trách nhiệm (xem phần 13). Bạn có nhiệm vụ đảm bảo rằng việc sử dụng Trang web và Dịch vụ của bạn từ quốc gia nơi bạn đang chơi là được phép.
+
+Trang web dành riêng cho việc sử dụng cá nhân và các hoạt động giải trí.</string>
+    <string name="tc4">APP Xổ số Vũng Tàu dành riêng cho và thúc đẩy một thái độ có trách nhiệm đối với cờ bạc và cá cược. Vì mục tiêu này, chúng tôi cấm bất kỳ ai dưới 18 tuổi (hoặc độ tuổi được áp dụng ở quốc gia có liên quan) tạo Tài khoản, sử dụng Dịch vụ của chúng tôi và mua Trò chơi chiến thắng tức thì; (ii) khuyên tất cả Người dùng đặt giới hạn cho việc tham gia Rút thăm Xổ số và mua Trò chơi Trúng ngay lập tức; và (iii) không đề nghị Người dùng chuyển sang Xổ số hoặc Nội dung. Chúng tôi khuyên bạn nên ngừng sử dụng và đóng Tài khoản của mình bằng cách sử dụng Công cụ Trang web nếu bạn tin rằng bạn đang sử dụng Dịch vụ của chúng tôi một cách vô trách nhiệm hoặc mua Trò chơi Win liền tay mà chúng tôi cung cấp trên Trang web để làm như vậy. Chúng bao gồm những điều sau:</string>
+    <string name="tc5">• Bạn có tùy chọn, theo quyết định của mình, để hạn chế số tiền bạn có thể gửi trong một khoảng thời gian nhất định bằng cách sử dụng các công cụ của Trang web.</string>
+    <string name="tc6">• Bạn có thể tự do quyết định thời gian bạn có thể đăng nhập vào trang web trong một phiên duy nhất. Bạn sẽ đăng xuất khỏi trang web và bất kỳ trò chơi nào vẫn đang diễn ra sau khi khoảng thời gian này trôi qua.</string>
+    <string name="tc7">• Sử dụng các khả năng trên Trang web, bạn có thể quyết định có dành cho mình thời gian tạm dừng cho bất kỳ việc gì từ một ngày đến sáu tuần hay không. Bạn sẽ không thể chơi, gửi tiền, đặt hàng hoặc mua bất cứ thứ gì vào lúc này.</string>
+    <string name="tc8">• Bạn có tùy chọn để thiết lập một kiểm tra thực tế, chỉ có sẵn cho Trò chơi Thắng tức thì, theo lựa chọn của bạn. Kiểm tra thực tế tạm dừng chơi mỗi giờ và hiển thị thời gian bạn đã chơi, cùng với số tiền thắng và thua của bạn, trong suốt thời gian đó.</string>
+
+<string name="faq">Có một số trò chơi xổ số khác, nhưng xổ số là trò chơi được nhiều người yêu thích nhất. Sáu số được chọn ngẫu nhiên từ một nhóm các số cho Xổ số (như số 1 đến số 47). Bạn có thể mua một số Lô tô, còn được gọi là phiếu chơi, có sáu số hoặc được chọn ngẫu nhiên hoặc được chỉ định ngẫu nhiên. Sau đó, các con số được chọn trong một cuộc rút thăm. Bạn thắng nếu các con số trong trò chơi đã chọn của bạn trượt thẳng hàng.</string>
+
+</resources>

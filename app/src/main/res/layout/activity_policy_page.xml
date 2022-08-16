@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg13"
+    tools:context=".PolicyPage">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CHÍNH SÁCH BẢO MẬT"
+            android:gravity="center"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="20dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="25dp"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="6"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SỰ GIỚI THIỆU"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="25dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="6"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="@string/pcy1"
+            android:layout_marginHorizontal="10dp"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="6"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BẢO MẬT DỮ LIỆU"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="25dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="6"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="@string/pcy2"
+            android:layout_marginHorizontal="10dp"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="6"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BẢNG CHÚ GIẢI"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="25dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="6"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="CƠ SỞ LUẬT"
+            android:layout_marginHorizontal="10dp"
+            android:layout_marginTop="25dp"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="6"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:textSize="15dp"
+            android:textStyle="bold"
+            android:textColor="@color/white"
+            android:text="@string/pcy3"
+            android:layout_marginHorizontal="10dp"
+            android:justificationMode="inter_word"
+            android:shadowColor="#FF0000"
+            android:shadowRadius="6"/>
+
+        <TextView
+            android:id="@+id/pop"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:text="ĐỒNG Ý"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:textSize="15dp"
+            android:background="@drawable/tabbar01"
+            android:gravity="center"
+            android:contentDescription="@string/button"
+            android:shadowRadius="5"
+            android:shadowColor="#FB0303"/>
+
+
+    </LinearLayout>
+
+</androidx.core.widget.NestedScrollView>
